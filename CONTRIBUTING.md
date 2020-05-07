@@ -41,3 +41,6 @@ As an alternative, you can provide DCO instead of CLA. You can find the text of 
 It is enough to read and copy it verbatim to your pull request.
 
 If you don't agree with the CLA and don't want to provide DCO, you still can open a pull request to provide your contributions.
+
+
+misha
